@@ -17,8 +17,12 @@ Verifies the integrity and authenticity of hidden data.
 - Adaptability:
 Adapts to evolving security needs and technological advancements.
 
+## Installation
 
-
+```bash
+  pip install opencv-python
+```
+    
 
 ## Screenshots
 
