@@ -24,7 +24,7 @@ Adapts to evolving security needs and technological advancements.
 
 
 ![App Screenshot](https://s9.gifyu.com/images/SFeSU.gif)
-
+https://s9.gifyu.com/images/SFeSU.gif
 
 ## Overall
 
