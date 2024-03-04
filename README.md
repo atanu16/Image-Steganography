@@ -3,6 +3,7 @@
 Image steganography is a technique used to conceal information within digital images in a way that is imperceptible to the human eye. The primary goal is to embed secret data within the image while maintaining its visual appearance, making it difficult for unintended recipients to detect the presence of hidden information.
 
 ## Features
+.
 
 - Invisibility:
 Conceals data without perceptible changes in the image appearance.
@@ -25,7 +26,6 @@ Adapts to evolving security needs and technological advancements.
     
 
 ## Screenshots
-
 
 ![App Screenshot](https://s9.gifyu.com/images/SFeSU.gif)
 https://s9.gifyu.com/images/SFeSU.gif
