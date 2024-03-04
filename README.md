@@ -1,6 +1,3 @@
-﻿# Image-Steganography-Hiding-Information-in-Images-
-
-
 #  Image Steganography (Hiding Information in Images)
 
 Image steganography is a technique used to conceal information within digital images in a way that is imperceptible to the human eye. The primary goal is to embed secret data within the image while maintaining its visual appearance, making it difficult for unintended recipients to detect the presence of hidden information.
