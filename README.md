@@ -3,7 +3,7 @@
 Image steganography is a technique used to conceal information within digital images in a way that is imperceptible to the human eye. The primary goal is to embed secret data within the image while maintaining its visual appearance, making it difficult for unintended recipients to detect the presence of hidden information.
 
 ## Features
-.
+
 
 - Invisibility:
 Conceals data without perceptible changes in the image appearance.
@@ -32,7 +32,7 @@ https://s9.gifyu.com/images/SFeSU.gif
 
 ## Overall
 
-Steganography is often used for secure communication, copyright protection, and data hiding. However, it's important to note that, like any method of hiding information, it can be misused for malicious purposes, such as unauthorized data transfer or covert communication. As a result, image steganography raises both security and ethical considerations in various contexts.
+Steganography is often used for secure communication, copyright protection, and data hiding. However, it's important to note that, like any method of hiding information, it can be misused for malicious purposes, such as unauthorized data transfer or covert communication. As a result, image steganography raises both security and ethical considerations in various contexts..
 
 
 ## Authors
